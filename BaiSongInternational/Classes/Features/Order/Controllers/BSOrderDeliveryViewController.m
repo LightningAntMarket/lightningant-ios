@@ -18,10 +18,10 @@
 
 #import "UIViewController+DismissKeyboard.h"
 
-static NSString * PostSend = @"Android/Order/send";
+static NSString * PostSend;
 
 //发布的
-static NSString * orderSendDetail = @"Android/Order/orderSendDetail/oid/%@";
+static NSString * orderSendDetail;
 
 @interface BSOrderDeliveryViewController ()<UITableViewDelegate, UITableViewDataSource,UIAlertViewDelegate>
 @property (nonatomic) UITableView * tableView;

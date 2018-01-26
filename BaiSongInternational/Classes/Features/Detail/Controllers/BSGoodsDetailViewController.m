@@ -160,7 +160,7 @@
 #pragma mark - 下载
 - (void)loadGoods
 {
-    NSString *URLString = [@"Android/goods/detail/gid/" stringByAppendingString:self.goodsID];
+    NSString *URLString ;
     [self showHUDInView:self.view];
     
     [[BSNetWorking shareInstance] GET:URLString refresh:YES success:^(id responseObject) {
@@ -219,7 +219,7 @@
 //用户抢 出价 将信息发送给服务器
 - (void)requestUserOperation:(BSDefaultAddress *)addressModel
 {
-    NSString *URLString = @"Android/Join/index";
+    NSString *URLString ;
     
     NSString * privkey = [[BSLoginManager shareInstance] blockKeyWithViewController:self];
     if (!privkey) {

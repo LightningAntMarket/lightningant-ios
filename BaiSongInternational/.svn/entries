@@ -1,142 +1,0 @@
-8
-
-dir
-881
-svn://liusongye@139.129.228.146/baisongIOS/BaiSongInternational/BaiSongInternational
-svn://liusongye@139.129.228.146
-
-
-
-2018-01-26T07:20:42.041412Z
-881
-maqihan
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-42a75eaf-c1ee-46ff-a305-554b4d882d27
-
-main.m
-file
-
-
-
-
-2018-01-22T06:08:50.000000Z
-8edcf4537916c4240af382433e418b85
-2017-09-04T05:22:54.493075Z
-193
-maqihan
-
-ja.lproj
-dir
-
-BaiSongInternational.entitlements
-file
-
-
-
-
-2018-01-22T06:08:50.000000Z
-0157f2440e2fd85080b7fd1a177d8751
-2017-10-27T07:55:43.865373Z
-375
-maqihan
-
-Categories
-dir
-
-Info.plist
-file
-
-
-
-
-2018-01-24T02:49:39.000000Z
-e086c407ac6b49cce8673bf3b2e427ef
-2018-01-23T10:09:19.240644Z
-852
-maqihan
-
-en.lproj
-dir
-
-ThirdParty
-dir
-
-Classes
-dir
-
-zh-Hans.lproj
-dir
-
-Assets.xcassets
-dir
-
-ko.lproj
-dir
-
-Base.lproj
-dir
-
-Utils
-dir
-
-Macro
-dir
-
-AppDelegate.h
-file
-
-
-
-
-2018-01-22T06:08:50.000000Z
-d80098f733ddf90de34a455b6c8db4a5
-2017-09-04T05:22:54.493075Z
-193
-maqihan
-
-Config
-dir
-
-Doc
-dir
-
-AppDelegate.m
-file
-
-
-
-
-2018-01-22T06:08:50.000000Z
-6a7cae7e4ee673e9aee745b54b7d0db9
-2018-01-19T12:32:52.343959Z
-821
-maqihan
-
-Resources
-dir
-
-BaiSongInternational-Prefix.pch
-file
-
-
-
-
-2018-01-23T03:14:58.000000Z
-1eddd2516fa36096717af2c92819f4a4
-2018-01-23T03:14:38.775590Z
-846
-maqihan
-

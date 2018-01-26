@@ -10,7 +10,7 @@
 #import "IWTextView.h"
 #import "UIViewController+DismissKeyboard.h"
 
-static NSString * GetCheckKey = @"Android/User/checkKey/privkey/%@";
+static NSString * GetCheckKey;
 
 #define TextFieldHeight 50.0f
 #define TextFieldWidth 220.0f

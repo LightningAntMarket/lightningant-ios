@@ -11,9 +11,9 @@
 #import "BSGoodsDetailViewController.h"
 
 //删除商品
-static NSString * Delgood = @"Android/Order/delgood/gid/%@";
+static NSString * Delgood;
 
-static NSString * GetMysend = @"Android/goods/mysend/p/%zd";
+static NSString * GetMysend;
 @interface BSOrderForMeReleaseViewController ()<UITableViewDelegate,UITableViewDataSource,UIAlertViewDelegate>
 @property (nonatomic) NSIndexPath * indexPath;
 @end

@@ -10,7 +10,7 @@
 
 #import "BSOrderDetailViewController.h"
 
-static NSString * orderListByGet = @"Android/Order/orderListByGet/modetype/3/p/%zd";
+static NSString * orderListByGet;
 
 
 @interface BSOrderForAuctionSuccessViewController ()<UITableViewDelegate,UITableViewDataSource>

@@ -57,11 +57,7 @@
 {
     NSString *URLString ;
     
-    if (self.type == PublishType_Oneoff) {
-        URLString =     [NSString stringWithFormat:@"Android/goods/getMoreOnePriceJoins/gid/%@/p/%zd",self.gid,_currentPage];
-    }else{
-        URLString =     [NSString stringWithFormat:@"Android/goods/getMoreAuctionJoins/gid/%@/p/%zd",self.gid,_currentPage];
-    }
+
     
     [self showHUDInView:self.view];
     

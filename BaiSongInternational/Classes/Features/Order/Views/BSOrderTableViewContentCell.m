@@ -11,8 +11,6 @@
 #import "BSOrderListSuperViewController.h"
 #import "BSChatViewController.h"
 
-static NSString * ChangeInventory = @"Android/goods/changeInventory";
-
 @interface BSOrderTableViewContentCell ()<BSAlertViewDelegate,BSOrderSalesReturnViewControllerDelegate>
 
 @property (nonatomic) BSOrderModel * model;

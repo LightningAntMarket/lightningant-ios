@@ -17,9 +17,9 @@
 #import "BSGoodsDetailViewController.h"
 
 //抢到的
-static NSString * orderDetailByGet = @"Android/Order/orderDetailByGet/oid/%@";
+static NSString * orderDetailByGet;
 //发布的
-static NSString * orderSendDetail = @"Android/Order/orderSendDetail/oid/%@";
+static NSString * orderSendDetail ;
 
 @interface BSOrderDetailViewController ()<UITableViewDelegate, UITableViewDataSource>
 

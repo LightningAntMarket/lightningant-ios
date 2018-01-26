@@ -13,7 +13,7 @@
 #import "BSDetailOfTransferTableViewUserInfoCell.h"
 #import "BSBusinessDetailTimeTableViewCell.h"
 
-static NSString * getFaceByUid = @"Android/user/getFaceByUid/uid/%@";
+static NSString * getFaceByUid ;
 
 @interface BSDetailOfTransferViewController ()<UITableViewDelegate, UITableViewDataSource>
 @property (nonatomic) UITableView     *tableView;

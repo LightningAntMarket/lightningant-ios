@@ -19,9 +19,9 @@
 
 
 
-static NSString * GetApplyCancleOrder = @"Android/Order/applyReturnMoney";
+static NSString * GetApplyCancleOrder;
 
-static NSString * GetRefuseCancleOrder = @"Android/Order/refuseCancleOrder";
+static NSString * GetRefuseCancleOrder;
 
 
 //图片高度、连带photoview高度

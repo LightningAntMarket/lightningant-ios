@@ -12,7 +12,7 @@
 #import "BSLoginManager.h"
 
 //区块链--提币
-static NSString * PostBlockSend = @"Android/Block/send";
+static NSString * PostBlockSend;
 
 @implementation BSTradeModel
 

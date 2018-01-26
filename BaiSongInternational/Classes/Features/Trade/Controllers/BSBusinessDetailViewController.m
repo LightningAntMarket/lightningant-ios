@@ -15,7 +15,7 @@
 #import "BSBusinessDetailTableViewDescriptionCell.h"
 #import "BSBusinessDetailTimeTableViewCell.h"
 
-static NSString * getFaceByUid = @"Android/user/getFaceByUid/uid/%@";
+static NSString * getFaceByUid;
 
 
 @interface BSBusinessDetailViewController ()<UITableViewDelegate, UITableViewDataSource>

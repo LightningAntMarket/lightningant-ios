@@ -17,7 +17,7 @@
 #import "BSDetailOfTransferViewController.h"
 #import "BSRedPacketRecordViewController.h"
 
-static NSString * getLog = @"Android/Block/getLog/p/%zd";
+static NSString * getLog;
 
 @interface BSTradeListViewController ()<UITableViewDelegate,UITableViewDataSource>
 

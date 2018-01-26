@@ -10,7 +10,7 @@
 
 #import "BSOrderDetailViewController.h"
 
-static NSString * OrderSendList = @"Android/Order/orderSendList/modetype/2/p/%zd";
+static NSString * OrderSendList;
 
 @interface BSOrderForMeFixedPriceViewController ()<UITableViewDelegate,UITableViewDataSource>
 

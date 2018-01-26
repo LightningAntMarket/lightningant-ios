@@ -18,13 +18,9 @@
 //#define kHour_Send @"剩%d小时发货???"
 
 //确认收货
-static NSString * GetTakeDelivery = @"Android/TakeDelivery/index/oid/%@";
+static NSString * GetTakeDelivery ;
 //同意退币
-static NSString * GetGoodsBack = @"Android/GoodsBack/index/oid/%@";
-//取消订单
-static NSString * GetApplyCancleOrder = @"Android/Order/applyCancleOrder/oid/%@";
-//卖方、确认订单
-static NSString * GetApplyConfimOrder = @"Android/Order/applyConfimOrder/oid/%@";
+static NSString * GetGoodsBack=;
 
 @implementation BSOrderModel
 

@@ -13,7 +13,7 @@
 
 #import "BSOrderDetailViewController.h"
 
-static NSString * orderListByGet = @"Android/Order/orderListByGet/modetype/2/p/%zd";
+static NSString * orderListByGet;
 
 @interface BSOrderForFixedPriceViewController ()<UITableViewDelegate,UITableViewDataSource>
 @property (nonatomic) UITableView    * tableView;

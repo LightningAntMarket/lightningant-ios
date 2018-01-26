@@ -26,7 +26,7 @@
 #import "BSTradeWalletTableHeaderView.h"
 #import "BSTradeBlockKeyBackUpViewController.h"
 
-static NSString * GetUserInfo = @"Android/User/index";
+static NSString * GetUserInfo;
 
 #define tableViewFooterHeight 55.0f
 

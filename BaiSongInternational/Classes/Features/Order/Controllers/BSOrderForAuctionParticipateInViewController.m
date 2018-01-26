@@ -10,7 +10,7 @@
 
 #import "BSGoodsDetailViewController.h"
 
-static NSString * orderListGetAuction = @"Android/Order/orderListGetAuction/is_sale/1/p/%zd";
+static NSString * orderListGetAuction;
 
 @interface BSOrderForAuctionParticipateInViewController ()<UITableViewDelegate,UITableViewDataSource>
 

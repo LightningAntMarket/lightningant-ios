@@ -11,7 +11,7 @@
 #define TextFieldHeight 50.0f
 #define TextFieldWidth 220.0f
 
-static NSString * GetBlockAddress = @"Android/User/getBlockAddress";
+static NSString * GetBlockAddress ;
 
 @interface BSTradeBlockKeyBackUpViewController ()<UIAlertViewDelegate>
 @property (nonatomic) UILabel  * titleLab1;
