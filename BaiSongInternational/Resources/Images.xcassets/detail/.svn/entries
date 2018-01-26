@@ -1,0 +1,73 @@
+8
+
+dir
+881
+svn://liusongye@139.129.228.146/baisongIOS/BaiSongInternational/BaiSongInternational/Resources/Images.xcassets/detail
+svn://liusongye@139.129.228.146
+
+
+
+2018-01-09T02:08:54.798297Z
+711
+maqihan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+42a75eaf-c1ee-46ff-a305-554b4d882d27
+
+goods_mode_auction_2.imageset
+dir
+
+goods_detail_dizhi.imageset
+dir
+
+goods_detail_add.imageset
+dir
+
+goods_detail_contact.imageset
+dir
+
+goods_detail_decrease.imageset
+dir
+
+goods_detail_score.imageset
+dir
+
+Contents.json
+file
+
+
+
+
+2018-01-22T06:08:42.000000Z
+31cc68f34934a99c0b0c1bebde56309c
+2017-09-08T12:12:06.726340Z
+224
+maqihan
+
+goods_detail_stars.imageset
+dir
+
+goods_detail_time.imageset
+dir
+
+detail_address_cancel.imageset
+dir
+
+goods_detail_youfei.imageset
+dir
+
+detail_address_bg.imageset
+dir
+

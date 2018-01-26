@@ -1,0 +1,118 @@
+8
+
+dir
+881
+svn://liusongye@139.129.228.146/baisongIOS/BaiSongInternational/BaiSongInternational/Resources/Images.xcassets/message
+svn://liusongye@139.129.228.146
+
+
+
+2018-01-21T15:10:57.257822Z
+824
+maqihan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+42a75eaf-c1ee-46ff-a305-554b4d882d27
+
+toolbar_voice_button.imageset
+dir
+
+chat_transfer_sender.imageset
+dir
+
+chat_transfer_receive.imageset
+dir
+
+chat_bubble_receiver_bg.imageset
+dir
+
+chat_add_cell.imageset
+dir
+
+system_message.imageset
+dir
+
+chat_addManager_cell_selected.imageset
+dir
+
+chat_addManager_cell_normal.imageset
+dir
+
+group_chat.imageset
+dir
+
+chat_transfer_icon.imageset
+dir
+
+system_message_feedback.imageset
+dir
+
+toolbar_record_mike_button.imageset
+dir
+
+chat_invMember_item.imageset
+dir
+
+redPacket_background.imageset
+dir
+
+toolbar_transfer_button.imageset
+dir
+
+chat_redpacket_sender.imageset
+dir
+
+chat_bubble_sender_bg.imageset
+dir
+
+chat_redpacket_receive.imageset
+dir
+
+toolbar_camera_button.imageset
+dir
+
+redpacket_record_icon.imageset
+dir
+
+Contents.json
+file
+
+
+
+
+2018-01-22T06:08:45.000000Z
+31cc68f34934a99c0b0c1bebde56309c
+2017-09-04T05:22:54.493075Z
+193
+maqihan
+
+chat_redpacket_icon.imageset
+dir
+
+toolbar_album_button.imageset
+dir
+
+message_mute.imageset
+dir
+
+group_create.imageset
+dir
+
+toolbar_redpacket_button.imageset
+dir
+
+toolbar_emoji_button.imageset
+dir
+

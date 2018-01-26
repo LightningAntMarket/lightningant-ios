@@ -1,0 +1,64 @@
+8
+
+dir
+881
+svn://liusongye@139.129.228.146/baisongIOS/BaiSongInternational/BaiSongInternational/Resources/Images.xcassets/publish
+svn://liusongye@139.129.228.146
+
+
+
+2017-10-30T05:29:28.485251Z
+384
+maqihan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+42a75eaf-c1ee-46ff-a305-554b4d882d27
+
+publish_photo_normal.imageset
+dir
+
+publish_photo_selected.imageset
+dir
+
+Contents.json
+file
+
+
+
+
+2018-01-22T06:08:49.000000Z
+31cc68f34934a99c0b0c1bebde56309c
+2017-09-04T05:22:54.493075Z
+193
+maqihan
+
+publish_oneoff_normal.imageset
+dir
+
+publish_oneoff_selected.imageset
+dir
+
+publish_auction_normal.imageset
+dir
+
+publish_auction_selected.imageset
+dir
+
+publish_image_add.imageset
+dir
+
+publish_back_button.imageset
+dir
+

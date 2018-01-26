@@ -1,0 +1,70 @@
+8
+
+dir
+881
+svn://liusongye@139.129.228.146/baisongIOS/BaiSongInternational/BaiSongInternational/Resources/Images.xcassets/app/tabbar
+svn://liusongye@139.129.228.146
+
+
+
+2017-09-13T10:31:12.445279Z
+245
+maqihan
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+42a75eaf-c1ee-46ff-a305-554b4d882d27
+
+tabbar_icon_0_1.imageset
+dir
+
+tabbar_icon_1_0.imageset
+dir
+
+tabbar_icon_1_1.imageset
+dir
+
+tabbar_icon_2_0.imageset
+dir
+
+tabbar_icon_2_1.imageset
+dir
+
+tabbar_icon_3_0.imageset
+dir
+
+tabbar_icon_3_1.imageset
+dir
+
+tabbar_icon_4_0.imageset
+dir
+
+tabbar_icon_4_1.imageset
+dir
+
+Contents.json
+file
+
+
+
+
+2018-01-22T06:08:39.000000Z
+31cc68f34934a99c0b0c1bebde56309c
+2017-09-13T10:31:12.445279Z
+245
+maqihan
+
+tabbar_icon_0_0.imageset
+dir
+

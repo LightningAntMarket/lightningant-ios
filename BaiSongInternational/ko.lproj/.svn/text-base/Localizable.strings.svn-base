@@ -1,0 +1,515 @@
+/*
+ Localizable.strings
+ BaiSongInternational
+ 
+ Created by 马启晗 on 2017/8/30.
+ Copyright © 2017年 maqihan. All rights reserved.
+ */
+//通用
+"lightning.ant.market"="Lightning Ant Market";
+
+"home"="홈";
+
+"community"="커뮤니티";
+"post.what.you.want"="콘텐츠 올리기";
+"sell"="상품등록";
+"message"="메시지";
+"communication.ensures.successful.trading"="커뮤니케이션이 성공적인 거래를 보장합니다";
+"me"="나";
+
+"no"="아니요";
+"yes"="예";
+"ok"="알았어.";
+"cancel"="취소";
+"done"="완료";
+
+"auction"="경매";
+"fixed.price"="정찰가";
+"successful"="경매 성공";
+"finished"="종료 됨";
+
+"delete"="삭제";
+"copy"="복사";
+"failed"="실패";
+"order.failed"="경매 실패";
+"succeed"="성공";
+"submit"="업 로드";
+"confirm"="확인";
+"tips"="알림";
+"title"="제목";
+"description"="설명";
+"warning"="경고";
+"alert.yes"="확인";
+"alert.no"="취소";
+"album"="앨범";
+"photo"="사진";
+
+"no.data.for.now"="데이터 없음";
+"no.goods.for.now"="심사 대기중인 제품 없음";
+"imcomplete.information"="불충분 한 정보";
+"loading"="로드 중";
+
+"get"="가져 오기";
+
+"select.from.photo.album"="앨범에서 선택하십시오.";
+"take.a.picture"="사진 찍기";
+
+"facebook"="Facebook";
+"twitter"="Twitter";
+"wechat"="Wechat";
+"email"="Email";
+
+//提示
+"copy.is.successfully"="성공";
+"unbinding.is.successfully"="성공";
+"submit.is.successfully"="성공";
+"insert.is.successfully"="성공";
+"delivery.is.successfully"="성공";
+"modify.is.successfully"="성공";
+"operation.is.successfully"="성공";
+"share.tip.01"="친구가 QR 코드를 스캔 하면 또는 버튼을 클릭하면 엡을  다운받을 수 있습니다";
+"register.tip.01"="이용 약관 및 개인 정보 취급 방침을 읽고 동의하십시오";
+"forget.the.password.tip.01"="신청 후 확인 메일을 받게 됩니다, 향후 스팸을 보내지 않습니다";
+"check.email.tip_01"="메일전송 완료 하였습니다, 메일에서 확인 하십시오";
+"authentication.tip.1"="인증 방식은 여권 인증이며 여권이 들고 있는 선명한 사진을 업로드 해주세요";
+"authentication.tip.2"="자금 세탁 방지를 위해 사용자의 정보 인증을 필수보안 수단으로 채택하여 운영하고 있습니다. 인증 방식은 여권 인증이며 여권이 들고 있는 선명한 사진을 업로드 해주세요. 사진 제출 후 최대한 빠르게 심사를 진행하겠습니다. 인증 완료 후 인출 작업이 가능합니다.";
+"inv.tip.1"="친구가 QR 코드를 스캔 하면 또는 버튼을 클릭하면 엡을  다운받을 수 있습니다";
+
+"withdraw.tip.1"="인출 최소 1LAP";
+"same.new.and.old.password"="동일한 이전 및 새 암호";
+"inconsistent.password"="일치하지 않는 암호";
+
+"wallet.tip.4"="개인 키 복사가 성공했습니다, 저장하십시오";
+
+"wallet.tip.2"="내 지갑에서 개인 키를 보기 또는 대체 하기";
+
+"problems.tip.1"="문제를 자세히 설명해 주시면 최대한 빠르게 답변을 드리겠습니다";
+"key.tip.01"="개인 정보 및 재산 보호를 위해 개인 키 및 개인지갑을 만들기 또는 가져오기";
+"key.tip.02"="내 지갑에서 개인 키를 보기 또는 대체 하기";
+"key.tip.03"="개인 정보 보호를 위해 개인 키를 복사하십시오";
+"data.error"= "틀린";
+"failed.please.try.again"="실패";
+"whether.to.give.up.this.commodity"="이 제품을 포기할 지 여부";
+"order.del.goods?"="선반 아래 물품 여부";
+"no.relevant.data"="데이터 없음";
+"please.set.up.your.delivery.address"="배송 주소를 설정하십시오";
+
+//登陆
+"login"="로그인";
+"register"="회원가입";
+"logout"="로그 아웃";
+"forget.the.password"="비밀번호 찾기";
+
+"forget.the.password2"="비밀번호 찾기";
+
+"retrieve.password"="비밀번호 찾기";
+"email.address"="메일";
+"password"="비밀번호";
+"verify.password"="암호 확인";
+"next.step"="다음 단계";
+"next"="다음 단계";
+"information.supplement"="정보 편집";
+
+
+"email.err"="정확한 이메일 입력하십시오";
+"wrong.password"="입력하신 비밀번호와 다릅니다";
+
+
+//商品seller
+"details.of.commodities"="제품 세부 정보";
+"seller"="판매자";
+
+"delivery.place"="출하 장소";
+"time.left"="거리 종료 시간까지";
+"description.of.commodity"="상품 설명";
+"record.of.participation"="참여 기록";
+"other.list"="기타 자료";
+"contact.the.seller"="판매자에게 문의";
+"price"="가격";
+
+
+"instantly.price"="바로 경매 참여하기";
+
+"goodsdetail.more"="기타";
+"bid"="입찰";
+"purchase"="구매";
+"time"="시간";
+"user"="사용자";
+
+"send"="보내기";
+"reply"="담글";
+"post"="콘텐츠 올리기";
+"post.01"="콘텐츠 올리기";
+"my.posts"="내 게시물";
+"community.news"="커뮤니티 메시지";
+"delete.all"="모두 삭제";
+"replied"="답글";
+"comments.deleted"="댓글이 삭제되었습니다";
+"all.comments"="모든 댓글";
+"input.comments"="댓글 내용 입력하기";
+"order.comments"="콘텐츠";
+
+//发布商品
+"list.mode.choices"="판매 모드 선택";
+"auction"="경매 모드";
+"current.price"="현재 가격";
+"fixed.price"="정찰가 모드";
+"input.name.of.commodities"="제품 이름 입력하십시오";
+"describe.the.commodity.you.list"="제품 설명하십시오";
+"add.pictures.up.to.6"="사진 추가 (최대 6 개)";
+//"transaction.fee" = "1%的交易费用";
+
+"quantity"="수량";
+"inventory.setting.for.list"="재고 수량 설정";
+"deadline"="종료 시간 설정";
+"bidding.closed.when.deadline"="경매 마감 기한";
+"input.where.your.commodity.is"="제품을 게시 한 위치 입력";
+"way.of.logistics"="물류 방식";
+"mail.fee.included"="운포";
+"pay.on.arrival"="착불";
+"bidding.time"="경매 시간";
+"list"="게시 됨";
+
+//消息
+"news"="메시지";
+"notification.of.message"="공지 사항";
+"communication.ensures.successful.trading"="커뮤니케이션이 성공적인 거래를 보장합니다";
+"take.photos"="사진 찍기";
+"pictures"="그림";
+"emoji"="표현";
+"audio"="음성";
+"transfer.LAP"="송금";
+"LAP.sending"="송금 전송";
+"LAP.received"="송금 수령";
+"transfer.LAP.to.friends"="친구에게 이체";
+"quantity.of.LAP"="이체 금액";
+"add.explanation.to.LAP.transfer"="메모 설명 추가";
+"add.pictures.up.to.6"="사진 추가 (최대 6 개)";
+"write.messages"="새 메시지 입력";
+"hold.on"="  길게 누르기  ";
+"hold.cancel"="  전송 취소  ";
+"message.image"=" [이미지]";
+"message.voice"="[소리]";
+"message.location"="[위치]";
+"message.video"="[비디오]";
+"lightning.ant.chat.group" = "Lightning Ant Market";
+
+//系统消息
+"system.messages"="시스템 메시지";
+
+//问题反馈
+"problems.feedback"="피드백";
+"submit.feedback"="의견 제출";
+"please.input.the.title"="제목을 입력하십시오";
+"input.content"="콘텐츠를 입력하십시오";
+"input.tip.feedback.01"="문제를 자세히 설명해 주시면 최대한 빠르게 답변을 드리겠습니다";
+"add.in.pictures"="사진 추가";
+
+//资料编辑
+"edit.information"="데이터 편집";
+"click.to.change.photo"="사진 변경";
+"nickname"="닉네임";
+"sex"="성별";
+"city"="도시";
+"edit.city"="도시 수정";
+"about.me"="자기 소개";
+"edit.nickname"="닉네임 변경";
+"address.delivery"="주소 관리";
+"management.of.addresses"="주소 관리";
+"edit.address"="주소 수정";
+"men"="남성";
+"women"="여성";
+"unknown"="알 수 없음";
+"home.page.from"="부터";
+"home.page.contact"="연락처";
+"read.all.comments"="전체 리뷰보기";
+"maximum.characters"="가장 긴 %@ 문자";
+
+//地址管理
+"default.address"="기본 주소";
+"other.addresses"="기타 주소";
+"add.new.address"="새 주소 추가";
+"consignee"="收货人";
+"contact.number"="전화 번호";
+"contact.number.01"="지역 번호 전화";
+"set.as.default.address"="지역 번호 및 전화 번호";
+"save.address"="주소 저장";
+"address.name"="이름";
+"address.city"="도시";
+"detailed.address"="세부 주소";
+"address.xing"="성";
+"address.ming"="이름";
+
+
+//设置
+"setting"="설정";
+"switch.language"="언어 선택";
+"invite.friends"="친구 초대하기";
+"share.to.friends"="공유 할 친구";
+"version.number"="버전";
+"user’s.guide"="사용 설명서";
+"identity.verification"="본인인증";
+"passport.verification"="여권인증";
+"google.authentication"="Google 인증";
+"input.verification.code"="인증 번호 확인";
+"verification.code"="인증 코드";
+"google.code"="Google 코드";
+"help"="도움말";
+"binding"="바인드 하기";
+"bind"="바인드 하기";
+"bind.google.authentication"="구속Google 인증";
+"unbinding"="바인드 해제";
+"verification"="검증";
+"change.password"="비밀번호 변경";
+"set.new.password"="새 비밀번호를 입력하십시오";
+"enter.new.password"="새 비밀번호를 입력하십시오";
+"enter.your.nickName"="이름 입력";
+"confirm.new.password"="새 비밀번호를 다시 입력하십시오";
+"successfully.change"="공";
+"secret.key"="개인 키";
+"email.verification.code"="이메일 인증 코드";
+"input.email.verification.code"="메일 인증 번호를 입력하십시오";
+"authenticated"="인증 완료되었습니다";
+"authenticating"="인증 중";
+
+//钱包
+"LAP.wallet"="LAP 지갑";
+"usable.LAP.left"="LAP 잔액";
+"available.LAP"="사용 가능한 잔액";
+"available.LAP.01"="사용가능LAP";
+"frozen"="동결 됨";
+"withdraw.LAP"="LAP입금";
+"withdraw.LAP.01"="LAP출금";
+"recharge"="재충전";
+"trade.receiving"="LAP출금";
+"transaction.record"="거래 기록";
+"successfully.sold.out"="성공적으로 판매 됨";
+"successfully.buying"="성공적으로 구매";
+"transaction.time"="거래 시간";
+"receive"=" LAP 받기";
+"Address.for.withdraw.LAP"="출금 주소";
+"amount.for.LAP.withdraw"="출금 수량";
+
+"confirm.the.withdraw.01"="사용 가능한 잔액";
+"transfer.LAP"="송금";
+"description.of.transferring"="통화 설명";
+"Maximum.amount.for.LAP.withdraw"="최대 인출 금액";
+"fee.charged"="수수료 발생";
+"record.of.withdraw"="인출 기록";
+"successfully.transferred"="거래 성공";
+"address.of.the.receiver"="수취인 주소";
+"address.of.the.sender"="주소 보내기";
+"transaction.number"="거래 번호";
+"address.of.receiving.LAP"="수취인 주소";
+"copy.the.address"="주소 복사";
+"generate.private.key"="생성 된개인 키";
+"insert.private.key"="가져 오기개인 키";
+"insert.wallet"="지갑 가져 오기";
+"confirm.and.insert"="확인 및 가져 오기";
+"lighting.trade"="라이트닝 거래";
+
+
+"trade.list"="거래 내역";
+"transaction.record"="거래 내역";
+"transaction.fee"="서비스 수수료 0.1% LAP 발생하며 최대 10LAP";
+"insert wallet"="지갑 가져 오기";
+"confirm and insert"="확인하고 입력하십시오";
+"back up private key"="개인 키 백업";
+"create.wallet"="지갑 만들기";
+"generate private key"="생성 된개인 키";
+"insert private key"="가져 오기개인 키";
+"please.input.the.private.key"="개인 키를 입력하십시오";
+"check.the.private.key"="개인 키 보기";
+"details.of.the.trade"="거래 세부 정보";
+
+
+//订单
+"in.progress"="진행중";
+"to.be.delivered"="배송 예정";
+"transaction.finished"="거래 완료";
+"order.down"="거래 완료";
+"transaction.closed"="거래 마감";
+"days.left.for.automatic.receiving"="나머지 %d 일 영수증";
+"hours.left.for.automatic.receiving"="받은 %d나머지 시간";
+"days.left.for.delivery"="남은  %d 일 배달";
+"hours.left.for.delivery"="남은  %d 시간 배달";
+"purchased.at.fixed.price"="가격 주문 주문";
+"to.be.received"="인수 대기 중";
+"shipping"="배송";
+"refund.tip.1"="반환 확인을 위해 환불 신청에 대한 구체적인 이유를 적어주십시오";
+"tracking.number"="배송 번호";
+"logistics.company"="배송 회사";
+"details.of.the.order"="주문 세부 정보";
+"order.number"="주문 번호";
+"time.of.order"="주문 시간";
+"delivery.time"="배달 시간";
+"deal.time"="成交时间";
+"decline"="환불 거부";
+"refund"="환불 확인";
+"receipt"="인수 확인";
+"delivery"="배송";
+"modify.inventory"="인벤토리 수정";
+"return.01"="환불 신청";
+"delivered"="출하되었습니다";
+"receiving.time"="배달 시간";
+"closing.time"="시간 끄기";
+"finishing.time"="시간 끝내기";
+"details.of.the.transaction"="주문 세부 정보";
+"refund.tip.2"="환불 동의 후 주문이 취소됩니다";
+"payment"="제품 가격";
+"bidding.Order"="입찰 주문";
+"fixed.price.order"="정가 주문내역";
+"selling.Order"="판매 내역";
+"cancel.order"="주문 취소";
+"order.comments.to"="댓글";
+"confirm.order"="인수 확인";
+
+
+
+
+//圈子
+"full"="전문";
+"pack.up"="축소";
+"new.messages"="새로운 메시지";
+"cannot.comment.yourself"="틀린";
+"like.list"="목록처럼";
+"details"="세부 정보";
+
+//个人主页
+"no.self-introduction"="상대방이 자기소개를 아직 등록하지 않았습니다";
+
+
+
+
+//时间
+"second.ago"="초 전";
+"minute.ago"="분 전";
+"hour.ago"="시간 전";
+"day.ago"="일 전";
+"month.ago"="달 전";
+"year.ago"="년 전";
+"day"="일";
+"hour"="시간";
+
+//===================
+
+
+
+
+
+
+
+//举报
+"choose.report.content"="신고 내용 선택";
+"inappropriate.content"="부적절한 콘텐츠";
+"false.fraud"="불실 및 사기";
+"violence.and.terror"="폭력 및 테러";
+"post.report"="신고하기";
+
+//评价系统
+"comments"="평가";
+"post.comments"="댓글 올리기";
+"shopping.comments"="쇼핑 평가";
+"seller.rating"="판매자 평점";
+"shipping.time"="배송 속도";
+"commodity.quality"="제품 평가";
+"communication.service"="상담";
+"check.product.description"="제품 설명 확인하기";
+"reject"="심사 통과하지 않았습니다";
+"pass"="심사 통과했습니다";
+"ignore"="건너뛰기";
+"view.related.audit.regulations"="관련 규정 및 인센티브 보기";
+
+
+//创建群聊页面
+"create.a.group"="채트 그룹을 창립하기";
+"add.a.group.name"="채트 그룹 이름을 창립하기";
+"group.create"="창립";
+
+"join.the.group"="채트 그룹을 가입하기";
+"invite.tip1"="%@가입 요청%@";
+"group.join"="채트 그룹을 가입하기";
+
+"group.Administrator"="그룹 메니저";
+"administrator"="메니저";
+"group.Adminis"="메니저";
+"group.member"="채트 그룹 멤버";
+"group.view.contacts"="연락처 보기";
+"group.send.massage"="메시지 발송";
+"remove.from.the.group.chat"="채트 그룹에서 이출하기";
+"modify.group.bulletin"="게시판 변경";
+"modify.group.info"="디스크립션 변경";
+"group.bulletin"="채트 그룹 게시판";
+"group.info"="디스크립션 변경";
+"group.name"="그룹 이름";
+
+"add.group.member"="멤버 추가";
+"accomplish"="완성";
+"only.visible.to.the.Administrator"="메니저만 편집할 수 있음";
+"cancel.Administrator"="관리자 취소";
+"successfully.modified"="성공";
+
+"group.invitation.link"="채트 그룹 요청 린크";
+"group.tip2"="모든 사용자가이 링크를 열어이 그룹에 가입 할 수 있습니다";
+"group.copy"="링크 복제";
+"group.share"="쉐어";
+
+"group.share.link"="그룹 채팅에 초대했습니다. 주소 다운로드%@전체 텍스트를 복사하여 엽니 다. 그룹 채팅에 참여하십시오.￥%@￥";
+"group.share.tip2"="초대 링크 사본이 성공적이며 붙여 넣기로 이동합니다";
+
+"lightning.ant.community" = "Lightning Ant Community";
+"WLAN.error" = "비정상적인 네트워크";
+"reconnect" = "다시 로그인하십시오";
+"my.group.chat"="채트 그룹을 가입 완료하기";
+"sticky.on.top" = "톱 채트";
+"remove.from.top" = "톱 취소";
+"mute" = "음소거";
+"clear.chat.records" = "채트 기록을 삭제하기";
+"delete.group" = "삭제 및 퇴출";
+"report"="신고";
+"group.member"="그룹 멤버";
+"administrator.settings"="메니저 설치";
+"more"="더 많은 것";
+"cancel.mute"="음소거 해제";
+"group.settings"="그룹 설정";
+"group.chat.location.dismach"="영역이 일치하지 않습니다";
+"only.administrator"="메니저만 편집할 수 있음";
+"audit"="심사";
+"group"="【그룹】";
+
+"redpacket.message"="[전송 메시지를 받았습니다.최신 버전 받기]";
+"transfer.message"="[송금 수령，최신 버전 받기]";
+"red.packet.message"=" [레드 포켓]";
+"transfer.message"=" [전송]";
+"open.red.packet"="오픈";
+"opened.your.red.packet"="레드 포켓을 수령하기";
+"red.packet"="레드 포켓";
+"view.my.red.packets"="레드 포켓 기록";
+"better.luck.next.time"="수령하지 못하기";
+"received.n/n"="%@/%@개를 수령 완료하기 총 %.4 LAP";
+"send.a.red.packet"="레드 포켓을 보내기";
+"send.red.packet"="레드 포켓을 보내기";
+"receive.a.red.packet"="레드 포켓을 받기";
+"amount"="수량";
+"enter.the.amount"="수량 입력";
+"members"="그룹 멤버 수량";
+"service.fee"="서비스 비용";
+"balance"="사용할 수 있는 잔액";
+"singular.number"="단수";
+"the.maximum.amount"="최대 금액은 100LAP입니다";
+"the.amount.can.not.be.0"="금액은 0 이 될 수 없습니다";
+"the.number.can.not.be.0"="숫자는 0이 될 수 없습니다";
+"no.more.than.the.number.of.groups"="그룹 수보다 많지 않음";
+"latest.version"="최신 버전 다운로드";
+"download"="다운 로 드";
+"red.packet.type"="지금 보톤 레드 포켓을 운빨 레드 포켓으로 변경되었음";
+"comprehensive.ranking"="종합 등급";
+"received.a.new.message"="새로 운 소식을 받다";
+"total"="총 금액";
+"random.red.packet"="랜덤";
+"fixed.amount.red.packet"="보통의";
+"transferred.to.fixed.red.packet"="정상으로 변경하십시오";
+"transferred.to.random.red.packet"="임의로 변경";
+"current.location"="현재 지역";
+"selected.area"="지역 선택";
+

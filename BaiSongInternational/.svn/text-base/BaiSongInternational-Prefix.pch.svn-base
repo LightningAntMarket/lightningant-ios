@@ -1,0 +1,65 @@
+//
+//  BaiSongInternational-Prefix.pch
+//  BaiSongInternational
+//
+//  Created by 马启晗 on 2017/8/22.
+//  Copyright © 2017年 maqihan. All rights reserved.
+//
+
+//#ifndef BaiSongInternational_Prefix_pch
+//#define BaiSongInternational_Prefix_pch
+//
+//// Include any system framework and library headers here that should be included in all compilation units.
+//// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+//
+//#endif /* BaiSongInternational_Prefix_pch */
+
+
+#ifdef __OBJC__
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+
+//宏定义
+#import "BSFoundationMacro.h"
+#import "BSEnumDef.h"
+#import "BSAPPConst.h"
+
+//颜色 字体 样式
+#import "BSStyle.h"
+
+#import "UIDevice+Extend.h"
+#import "NSDictionary+Extend.h"
+#import "NSString+Extend.h"
+#import "NSDictionary+Extend.h"
+#import "UILabel+Extend.h"
+#import "NSObject+Extend.h"
+
+#import "BSRefresh.h"
+#import "BSNetWorking.h"
+#import "Masonry.h"
+#import "MJExtension.h"
+
+//环信
+#import "EaseUI.h"
+#import <HyphenateLite/HyphenateLite.h>
+
+
+#import "UIView+Extend.h"
+#import "UIView+LayoutMethods.h"
+#import "UIImageView+SDWebImage.h"
+#import "NSUserDefaults+Settings.h"
+
+#import "BaseModel.h"
+
+#import "BSDataBaseManager.h"
+#import "BSAlertView.h"
+
+#import "BSConvenientOperationManager.h"
+
+#import "NSObject+MBHUD.h"
+
+#import "UITableView+Empty.h"
+#import "BSLog.h"
+
+#endif
