@@ -1,0 +1,19 @@
+//
+//  BSTaskDetailIntroTableViewCell.h
+//  BaiSongInternational
+//
+//  Created by 刘嵩野 on 2018/6/11.
+//  Copyright © 2018年 maqihan. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+#import "BSTaskModel.h"
+/**
+ 任务详情--简介cell
+ */
+@interface BSTaskDetailIntroTableViewCell : UITableViewCell
++ (instancetype)cellForTableView:(UITableView *)tableView;
+
+- (void)configCellWithModel:(BSTaskModel *)model indexPath:(NSIndexPath *)indexPath;
+
+@end
